@@ -1,2 +1,3 @@
 # AnalisisGeoUNAL
- Proyecto de curso: ¿Cómo influye la variables climaticas y espaciales en eventos de precipitación extremos (> 75 mm) en parte de la cuenca Magdalena-Cauca?
+En los primeros avances se exploraron herramientas de análisis geoespacial aplicadas a eventos extremos de precipitación en la cuenca Magdalena–Cauca.
+En el último avance, se evalúa cómo mejorar la interpolación de la precipitación anual mediante el uso de covariables en el método de Kriging Universal.
